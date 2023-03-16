@@ -1,0 +1,83 @@
+@font-face {
+    font-family: "Cuprum";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../../fonts/Cuprum/Cuprum-VariableFont_wght.ttf");
+}
+.main-login-div{
+    font-family: Cuprum;
+    color:#09006D;
+}
+.login-div{
+    background-color: white;
+    box-shadow: 10px 9px 21px 5px rgba(34, 60, 80, 0.18);
+    height: 300px;
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+    margin-top: 5%;
+    padding-top: 1.5%;
+}
+.login-text{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    font-size: 32px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color:black;
+    font-family:Cuprum;
+    color: #09006D;
+    /*margin-top: 20px;*/
+}
+.login-email{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-bottom: 5%;
+}
+.login-email-input{
+    padding: 2px;
+    border: none;
+    background: none;
+    border-bottom: 2px solid #006198;
+    font-size: 20px;
+    width: 100%;
+    font-family: Cuprum;
+}
+.login-password{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.login-password-text{
+    margin-right: auto;
+    margin-left: auto;
+    margin-left:1.5%;
+    margin-bottom: 3%;
+}
+.login-password-input{
+    padding: 2px;
+    border: none;
+    background: none;
+    border-bottom: 2px solid #006198;
+    font-size: 20px;
+    width: 100%;
+    font-family: Cuprum;
+}
+.login-email-text{
+    margin-right: auto;
+    margin-left: auto;
+    margin-left:1.5%;
+    margin-bottom: 3%;
+}
+.btn{
+    padding-left:20%;
+    margin-top: 7%;
+}
+.btn-login{
+    font-family: Cuprum;
+    width: 80%;
+}

@@ -1,12 +1,6 @@
 .App {
   text-align: center;
 }
-@font-face {
-  font-family: "Rubik";
-  font-style: normal;
-  font-weight: normal;
-  src: url("./components/fonts/Rubik/Rubik-VariableFont_wght.ttf");
-}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -60,21 +54,4 @@
 }
 a {
   text-decoration: none;
-}
-
-.footer-div{
-  display: flex;
-  background-color: #006198;
-  height: 100px;
-  padding-top: 40px;
-}
-.footer-div-text{
-  color: white;
-  width: 700px;
-  margin-left: 100px;
-  font-family: Rubik;
-}
-.footer-div-contacts{
-  margin-left: auto;
-  margin-right: 120px;
 }

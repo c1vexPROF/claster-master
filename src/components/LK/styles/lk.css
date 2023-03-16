@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "Cuprum";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../../fonts/Cuprum/Cuprum-VariableFont_wght.ttf");
+}
+
+span {
+    font-family: Cuprum;
+    color:#09006D;
+}
+.avatar{
+    margin-right: 5%;
+}
+.lk-field-info-1{
+    display: flex;
+    border-bottom: 2px solid black;
+    padding: 10px;
+    width: 92%;
+}
+.lk-field-info-2{
+    margin-top: 2%;
+}
+.lk-field-text{
+    margin-top: 2.5%;
+}
+.lk-btn{
+    margin-left: 3%;
+}
+.lk-data {
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    /*background: red;*/
+    border-radius: 10px;
+    box-shadow: 10px 9px 21px 5px rgba(34, 60, 80, 0.18);
+    padding-left: 6%;
+    padding-top: 2%;
+    font-size: 20px;
+    margin-bottom: 10%;
+    padding-bottom: 5%;
+}
+.FIO{
+    margin-top: 10px;
+}
+.lk-text {
+    margin-right: auto;
+    margin-left: 10%;
+    font-size:32px;
+    margin-bottom: 4%;
+}
+.lk-div{
+    margin-top: 5%;
+}
